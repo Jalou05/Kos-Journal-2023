@@ -108,4 +108,7 @@ a {
     a {
         font-size: px;
     }
+    .left {
+        margin-top: 50px;
+    }
 }
